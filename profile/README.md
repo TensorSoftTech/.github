@@ -15,8 +15,6 @@ We run our own data pipelines and our own capital. The tools here are the parts 
 |---|---|---|
 | `perp-cli` | Command-line tool to query funding rates, open interest and positions across perp DEXs; open, reduce and close positions from the terminal | 🗓️ planned |
 | `lp-manager-cli` | Command-line tool to monitor and manage DEX liquidity positions: range status, fees earned, impermanent loss, rebalance alerts | 🗓️ planned |
-| `funding-collector` | Snapshots funding rates and open interest from 20+ perp venues into Postgres, normalized to one schema and one APR convention | 🗓️ planned |
-| `collectors` | Data collectors for public sources: GitHub orgs and repos, package registries, job boards, protocol APRs | 🗓️ planned |
 
 > These tools run in production inside Tensorsoft today and are being prepared for open-source release. Watch this organization to get notified when each repository goes public.
 

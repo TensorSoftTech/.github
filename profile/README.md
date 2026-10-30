@@ -42,4 +42,4 @@ These tools are provided as is, without warranty. They can place real orders and
 
 ---
 
-<sub>© 2026 Tensorsoft Research · Crypto · AI · RWA · Markets</sub>
+<sub>© 2026 Tensorsoft LLC · Crypto · AI · RWA · Markets</sub>
